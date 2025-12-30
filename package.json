@@ -1,0 +1,19 @@
+{
+  "name": "react-splitter-ui",
+  "version": "1.0.0",
+  "description": "React component for resizable split-pane layouts",
+  "main": "App.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test"
+  },
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "3.4.1"
+  },
+  "author": "Stephen Lantz",
+  "license": "MIT"
+}
